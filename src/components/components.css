@@ -1,0 +1,65 @@
+.headerLeft {
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 550px;
+    height: 300px;
+    position: fixed;
+    left: 5vw;
+    top: 20vw;
+    background-image: linear-gradient(to bottom right, #009245, #FCEE21);
+}
+
+.headerRight {
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 550px;
+    height: 300px;
+    position: fixed;
+    left: 55vw;
+    top: 20vw;
+    background-image: linear-gradient(to bottom right, #FF512F, #DD2476);
+}
+
+.external {
+    color: black;
+    font-weight: bold;
+}
+
+.fun {
+    width: 250px;
+    border-radius: 30px;
+    height: 55px;
+    border: 2px solid black;
+    background-color: #C1EFFF;
+    position: absolute;
+    left: 30vw;
+    top:10vw;
+    font-weight: bold;
+}
+
+.fun:hover {
+    background-color: aqua;
+}
+
+.class {
+    width: 250px;
+    border-radius: 30px;
+    height: 55px;
+    border: 2px solid black;
+    background-color: #C1EFFF;
+    margin-left: 4vw;
+    position: absolute;
+    left: 48vw;
+    top: 10vw;
+    font-weight: bold;
+}
+
+.class:hover {
+    background-color: aqua;
+}
+h1{
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
+}
